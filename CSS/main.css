@@ -1,0 +1,76 @@
+
+    
+ h{
+    font-family: 'Marko One', 'Times New Roman', 'Georgia', serif;
+}
+h2{ text-align: center;
+    font-size: 50px;
+    color: #FFC304;
+    
+}
+
+body, link{
+    font-family: 'Montserrat','Helvetica', 'Verdana', sans-serif;
+    
+}
+form{
+    margin: 20px auto;
+    width: 320px;
+    color: saddlebrown;
+}
+
+input{
+    padding: 10px;
+    font-size: inherit;
+}
+
+input[type="text"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border:2px solid;
+    color: gold;
+}
+
+input[type="submit"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border:2px solid
+        ;
+    
+}
+
+.help{
+    background-color: lightcoral;
+}
+
+.Map{
+    text-align: center;
+
+}
+ .bgimg{
+    background-color:#4BE823;
+    
+}
+
+#climate{
+    width:50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.first{
+    background-color: #33E2FF;
+
+}
+
+
+.fth{
+    background-color: #33E2FF;
+}
+
+#climate{
+    transition-timing-function: ease-in-out;
+}
